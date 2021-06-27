@@ -1,1 +1,1 @@
-web: vendor/bin/yii serve
+web: vendor/bin/yii
